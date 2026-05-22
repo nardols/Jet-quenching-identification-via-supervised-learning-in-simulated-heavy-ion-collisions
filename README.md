@@ -18,6 +18,7 @@ The code available in this repository was used in the development of the analysi
 
 The repository is intended to support transparency and reproducibility of the results discussed in the manuscript.
 
+
 ## Main Features
 
 - Simulation pipeline of heavy-ion collisions with JEWEL and JEWEL+v-USPhydro;
@@ -38,8 +39,6 @@ The repository is intended to support transparency and reproducibility of the re
 
 .
 
-├── data/                 # Data files or instructions to access the datasets
-
 ├── preprocessing/        # Scripts for cleaning and preparing the datasets
 
 ├── models/               # Machine learning model definitions and training scripts
@@ -49,3 +48,29 @@ The repository is intended to support transparency and reproducibility of the re
 ├── requirements.txt      # Python dependencies
 
 └── README.md             # Repository documentation
+
+
+```
+
+## Data Availability
+
+The full simulated datasets are not included in this repository due to storage limitations, but they can be generated using the simulation and analysis pipeline described in this manuscript, or made available upon reasonable request to the authors. 
+
+
+## Citation
+
+If you use or find this repository useful for your research, please cite
+@misc{dasilva2026jetquenchingidentificationsupervised,
+      title={Jet Quenching Identification via Supervised Learning in Simulated Heavy-Ion Collisions}, 
+      author={Leonardo Lima da Silva and Marcelo Gameiro Munhoz},
+      year={2026},
+      eprint={2604.21088},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2604.21088}, 
+}
+
+## Contact
+
+For quentions, suggentions, or collaboration, please contact:
+leonardols.lsilva@usp.br
