@@ -60,6 +60,7 @@ The full simulated datasets are not included in this repository due to storage l
 ## Citation
 
 If you use or find this repository useful for your research, please cite
+```text
 @misc{dasilva2026jetquenchingidentificationsupervised,
       title={Jet Quenching Identification via Supervised Learning in Simulated Heavy-Ion Collisions}, 
       author={Leonardo Lima da Silva and Marcelo Gameiro Munhoz},
@@ -69,8 +70,10 @@ If you use or find this repository useful for your research, please cite
       primaryClass={hep-ph},
       url={https://arxiv.org/abs/2604.21088}, 
 }
+```
+
 
 ## Contact
 
-For quentions, suggentions, or collaboration, please contact:
+For questions, suggestions, or collaboration, please contact:
 leonardols.lsilva@usp.br
