@@ -4,7 +4,10 @@ This repository contains the codes developed and used in the study:
 
 **Jet Quenching Identification via Supervised Learning in Simulated Heavy-Ion Collisions**  
 Leonardo Lima da Silva and Marcelo Gameiro Munhoz  
-arXiv:2604.21088 [hep-ph]
+Preprint: https://doi.org/10.48550/arXiv.2604.21088 [hep-ph]
+
+Phys. Rev. C - Accepted 9 June, 2026
+DOI: https://doi.org/10.1103/nhl8-kknn
 
 ## Overview
 
@@ -61,14 +64,16 @@ The full simulated datasets are not included in this repository due to storage l
 
 If you use or find this repository useful for your research, please cite
 ```text
-@misc{dasilva2026jetquenchingidentificationsupervised,
-      title={Jet Quenching Identification via Supervised Learning in Simulated Heavy-Ion Collisions}, 
-      author={Leonardo Lima da Silva and Marcelo Gameiro Munhoz},
-      year={2026},
-      eprint={2604.21088},
-      archivePrefix={arXiv},
-      primaryClass={hep-ph},
-      url={https://arxiv.org/abs/2604.21088}, 
+@article{silva_munhoz_jet_quenching,
+  title = {Jet quenching identification via supervised learning in simulated heavy-ion collisions},
+  author = {Silva, Leonardo Lima da and Munhoz, Marcelo Gameiro},
+  journal = {Phys. Rev. C},
+  pages = {},
+  year = {2026},
+  month = {Jun},
+  publisher = {American Physical Society},
+  doi = {10.1103/nhl8-kknn},
+  url = {https://link.aps.org/doi/10.1103/nhl8-kknn}
 }
 ```
 
@@ -76,4 +81,6 @@ If you use or find this repository useful for your research, please cite
 ## Contact
 
 For questions, suggestions, or collaboration, please contact:
-leonardols.lsilva@usp.br
+Leonardo: llsilva@if.usp.br
+or
+Marcelo: munhoz@if.usp.br
