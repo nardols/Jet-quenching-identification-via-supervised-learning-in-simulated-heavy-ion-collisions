@@ -80,7 +80,10 @@ If you use or find this repository useful for your research, please cite
 
 ## Contact
 
-For questions, suggestions, or collaboration, please contact:
+For questions, suggestions, or collaboration, please contact
+
 Leonardo: llsilva@if.usp.br
+
 or
+
 Marcelo: munhoz@if.usp.br
